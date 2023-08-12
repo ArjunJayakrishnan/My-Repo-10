@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bellefair&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow&display=swap");
+
+.planetHeading {
+	color: white;
+	font-size: 10rem;
+	font-family: "Bellefair", serif;
+	margin-left: 0.8rem;
+}
+.paragraph {
+	color: #d0d6f9;
+	/* color: white; */
+	font-size: 1.8rem;
+	font-family: "Barlow", sans-serif;
+}
+
+.line {
+	width: 90%;
+	height: 1px;
+	background-color: #979797;
+	margin: auto;
+}
+
+.infoContainer {
+	margin: 0 2.4rem;
+	/* flex */
+	display: flex;
+	justify-content: space-between;
+}
+
+.distance p:first-child,
+.travelTime p:first-child {
+	color: #d0d6f9;
+	font-family: "Barlow Condensed", sans-serif;
+	font-size: 1.4rem;
+	margin-bottom: 0.8rem;
+}
+.distance p:last-child,
+.travelTime p:last-child {
+	/* color: green; */
+	color: white;
+	font-family: "Bellefair", serif;
+	font-size: 2.8rem;
+}

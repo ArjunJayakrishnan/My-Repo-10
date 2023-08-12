@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Bellefair&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow&display=swap");
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html {
+	font-size: 10px;
+}
+
+.heading5 {
+	max-width: 37.2rem;
+	letter-spacing: 4.72px;
+	font-family: "Barlow Condensed", sans-serif;
+	font-size: 2.8rem;
+	color: white;
+	margin: 6.4rem 0 0 6.4rem;
+	display: flex;
+}
+
+.heading5 span {
+	color: grey;
+	margin-right: 1.2rem;
+	font-weight: bolder;
+}
+
+/* Planetlinks */
+
+.links {
+	display: flex;
+	justify-content: space-between;
+	width: 60%;
+}
+
+.links a {
+	text-decoration: none;
+	color: #d0d6f9;
+	font-family: "Barlow Condensed", sans-serif;
+	font-size: 1.6rem;
+}
+
+.links a.active {
+	color: white;
+	padding-bottom: 0.4rem;
+	border-bottom: 2px solid white;
+}
+
+.links a:hover {
+	padding-bottom: 0.4rem;
+	border-bottom: 2px solid #979797;
+}
+
+/* Navbar linak */
+
+.NavBarLinks a {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.6rem;
+	font-family: "Barlow Condensed", sans-serif;
+	letter-spacing: 2.7px;
+	/* padding-right: 5.4rem; */
+	margin-right: 5.4rem;
+}
+
+.NavBarLinks span {
+	font-weight: 700;
+}
+
+.NavBarLinks a.active {
+	color: white;
+	padding-bottom: 0.4rem;
+	border-bottom: 2px solid white;
+}
+
+/* crew links */
+
+.crewLinks a {
+	text-decoration: none;
+	color: #979797;
+	border-radius: 40rem;
+	background-color: #979797;
+	padding: 0.6rem 0.8rem;
+	margin-right: 3.2rem;
+}
+
+.crewLinks a:first-child {
+	background-color: rgb(151, 77, 89);
+	color: rgb(151, 77, 89);
+}
+
+.crewLinks a.active {
+	background-color: white;
+	color: white;
+}
+.crewLinks a:hover {
+	background-color: #4e4c4c;
+	color: #4e4c4c;
+}
+
+/* technology linkss */
+
+.technologyLinks {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 2.4rem;
+}
+
+.technologyLinks a {
+	text-decoration: none;
+	font-family: "Bellefair", serif;
+	font-size: 3.2rem;
+	border-radius: 40rem;
+	color: #fff;
+	background-color: black;
+	padding: 2.8rem 4rem;
+	/* margin-bottom: 2.4rem; */
+}
+
+.technologyLinks a.active {
+	color: black;
+	background-color: #fff;
+}
+.technologyLinks a:hover {
+	background-color: rgb(100, 100, 100);
+}
+.technologyLinks a:first-child {
+	color: rgb(255, 255, 255);
+	background-color: #261882;
+}

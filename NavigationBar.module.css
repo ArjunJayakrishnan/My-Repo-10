@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed&display=swap");
+
+.nav {
+	/* padding-top: 4rem; */
+	/* padding-top: 4rem; */
+	/* position: absolute; */
+	height: 9.6rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	backdrop-filter: blur(4.2rem);
+}
+.nav img {
+	padding-left: 4.2rem;
+}
+
+.line {
+	width: 31%;
+	height: 1px;
+	background-color: #979797;
+}

@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bellefair&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow&display=swap");
+
+.home {
+	background: url("/background-home-desktop.jpg");
+	background-size: cover;
+	min-height: 100vh;
+	/* flex */
+	display: flex;
+	flex-direction: column;
+	gap: 9rem;
+	justify-content: space-between;
+}
+
+.writingHome {
+	margin-left: 16.5rem;
+	background-color: black;
+	width: 29.5%;
+	max-width: 45rem;
+	height: 38.2rem;
+	/* flex */
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.writingHome h5 {
+	font-family: "Barlow Condensed", sans-serif;
+	color: #d0d6f9;
+
+	font-size: 2.8rem;
+}
+.writingHome h1 {
+	font-size: 15rem;
+	font-family: "Bellefair", serif;
+	color: #ffffff;
+}
+.writingHome p {
+	font-family: "Barlow", sans-serif;
+	color: #d0d6f9;
+	font-size: 1.8rem;
+}
+
+.whiteCircle {
+	width: 27.4rem;
+	height: 27.4rem;
+	background-color: #ffffff;
+	font-family: "Bellefair", serif;
+	font-size: 3.2rem;
+	border-radius: 100rem;
+	color: black;
+	margin-right: 12.6rem;
+	/* flex */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.whiteCircle:hover {
+	box-shadow: 3px 3px 9.6rem #979797;
+}
+
+.content {
+	padding-bottom: 18rem;
+	/* flex */
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}

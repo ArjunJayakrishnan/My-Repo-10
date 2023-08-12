@@ -1,0 +1,9 @@
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.message {
+	font-size: 9.6rem;
+	color: black;
+}

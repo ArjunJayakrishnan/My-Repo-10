@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bellefair&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow&display=swap");
+
+.subHeading1 {
+	font-size: 1.6rem;
+	letter-spacing: 2.7px;
+	font-family: "Barlow Condensed", sans-serif;
+	color: #d0d6f9;
+}
+
+.technologyName {
+	font-size: 5.6rem;
+	font-family: "Bellefair", serif;
+	color: white;
+}
+.paragraph {
+	font-size: 1.8rem;
+	font-family: "Barlow", sans-serif;
+	color: #d0d6f9;
+	line-height: 3.2rem;
+}

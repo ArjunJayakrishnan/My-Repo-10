@@ -1,0 +1,25 @@
+.technology {
+	background: url("/background-technology-desktop.jpg");
+
+	background-size: cover;
+	min-height: 100vh;
+}
+.technologyWriting {
+	width: 100%;
+	max-width: 60rem;
+	/* margin-top: 9.6rem; */
+	/* flex */
+	display: flex;
+	flex-direction: column;
+	gap: 2.4rem;
+}
+
+.technologyLinks {
+	display: flex;
+}
+
+.content {
+	margin: 6.4rem 0 0 2.4rem;
+	display: flex;
+	justify-content: space-between;
+}
