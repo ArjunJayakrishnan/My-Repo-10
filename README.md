@@ -1,6 +1,7 @@
-# Frontend Mentor - Space tourism website solution
+### Links
 
-This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+- Solution URL: [https://github.com/ArjunJayakrishnan/My-Repo-10]
+- Live Site URL: [https://imaginative-gumdrop-508672.netlify.app/]
 
 ## Table of contents
 
@@ -9,7 +10,6 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ### The challenge
 
@@ -22,11 +22,6 @@ Users should be able to:
 ### Screenshot
 
 - image : [https://drive.google.com/file/d/1lQvgdIg1ZLLWabbWJDdMI2VJzc0sAAcX/view?usp=sharing]
-
-### Links
-
-- Solution URL: [https://github.com/ArjunJayakrishnan/My-Repo-10]
-- Live Site URL: [https://imaginative-gumdrop-508672.netlify.app/]
 
 ### Built with
 
@@ -43,7 +38,3 @@ i learned about importing and executing proptypes.
 ## Author
 
 - Frontend Mentor - [@ArjunJayakrishnan](https://www.frontendmentor.io/profile/ArjunJayakrishnan)
-
-## Acknowledgments
-
-I thank frontend mentor for giving me this challenge.
